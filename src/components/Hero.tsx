@@ -31,8 +31,8 @@ const Hero: React.FC = () => {
         <div className="mb-8 flex justify-center">
           <div className="relative">
             <img
-              src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&fit=crop"
-              alt="Ricardo Silva"
+              src="/assets/rafa.jpg"
+              alt="Rafael Ferreira"
               className="w-32 h-32 md:w-40 md:h-40 rounded-full border-4 border-gold shadow-2xl object-cover hover:scale-105 transition-transform duration-300"
             />
             <div className="absolute -inset-4 rounded-full bg-gold opacity-20 animate-pulse-slow"></div>

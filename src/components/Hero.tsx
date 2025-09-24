@@ -41,13 +41,13 @@ const Hero: React.FC = () => {
         
         {/* Name and Title */}
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-4 bg-gradient-to-r from-white to-gold bg-clip-text text-transparent">
-          Ricardo Silva
+          Rafael Ferreira
         </h1>
         
         <div className="w-24 h-1 bg-gold mx-auto mb-6"></div>
         
         <p className="text-xl md:text-2xl lg:text-3xl font-light mb-8 max-w-3xl mx-auto leading-relaxed">
-          Transformando sonhos em realidade no mercado imobiliário de luxo
+          Transformando sonhos em realidade no mercado imobiliário
         </p>
         
         {/* CTA Buttons */}
@@ -58,12 +58,6 @@ const Hero: React.FC = () => {
           >
             Conheça meu trabalho
           </button>
-          <a
-            href="#contact"
-            className="border-2 border-white hover:bg-white hover:text-black text-white font-semibold px-8 py-4 rounded-full transition-all duration-300 transform hover:scale-105"
-          >
-            Entre em contato
-          </a>
         </div>
       </div>
       

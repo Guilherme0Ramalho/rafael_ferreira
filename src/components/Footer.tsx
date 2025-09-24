@@ -48,7 +48,7 @@ const Footer: React.FC = () => {
           {/* Brand Section */}
           <div className="lg:col-span-1">
             <h3 className="text-3xl font-bold mb-4 bg-gradient-to-r from-white to-gold bg-clip-text text-transparent">
-              Ricardo Silva
+              Rafael Ferreira
             </h3>
             <p className="text-gray-300 mb-6 leading-relaxed">
               Seu parceiro de confiança no mercado imobiliário. Transformando sonhos em endereços há mais de 10 anos.
@@ -118,7 +118,7 @@ const Footer: React.FC = () => {
         <div className="border-t border-gray-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm mb-4 md:mb-0">
-              © 2024 Ricardo Silva - Corretor de Imóveis. Todos os direitos reservados.
+              © 2025 Rafael Ferreira - Corretor de Imóveis. Todos os direitos reservados.
             </p>
             <p className="text-gray-400 text-sm">
               CRECI: 123456-F | Desenvolvido com excelência para resultados excepcionais.

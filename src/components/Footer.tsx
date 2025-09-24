@@ -6,14 +6,14 @@ const Footer: React.FC = () => {
     {
       icon: <Phone className="w-6 h-6" />,
       label: "Telefone",
-      value: "(11) 99999-8888",
-      href: "tel:+5511999998888"
+      value: "(11) 94700-3193",
+      href: "tel:+5511947003193"
     },
     {
       icon: <MessageCircle className="w-6 h-6" />,
       label: "WhatsApp",
-      value: "(11) 99999-8888",
-      href: "https://wa.me/5511999998888"
+      value: "(11) 94700-3193",
+      href: "https://wa.me/5511947003193"
     },
     {
       icon: <Mail className="w-6 h-6" />,
@@ -24,8 +24,8 @@ const Footer: React.FC = () => {
     {
       icon: <Instagram className="w-6 h-6" />,
       label: "Instagram",
-      value: "@ricardosilva.imoveis",
-      href: "https://instagram.com/ricardosilva.imoveis"
+      value: "@imobi.ferreira",
+      href: "https://instagram.com/imobi.ferreira"
     }
   ];
 
@@ -103,7 +103,8 @@ const Footer: React.FC = () => {
             Vamos conversar sobre seus objetivos e encontrar a oportunidade perfeita para você.
           </p>
           <a
-            href="https://wa.me/5511999998888"
+            href="https://wa.me/5511947003193
+            "
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center bg-black text-white px-8 py-4 rounded-full font-semibold hover:bg-gray-800 transition-all duration-300 transform hover:scale-105"

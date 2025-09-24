@@ -46,7 +46,7 @@ const About: React.FC = () => {
     {
       icon: <Award className="w-8 h-8" />,
       title: "Experiência Premium",
-      description: "Mais de 10 anos no mercado imobiliário de luxo"
+      description: "Mais de 10 anos no mercado imobiliário"
     },
     {
       icon: <Shield className="w-8 h-8" />,

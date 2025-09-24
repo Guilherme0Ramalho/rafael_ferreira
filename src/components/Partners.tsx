@@ -23,9 +23,9 @@ const Partners: React.FC = () => {
   }, []);
 
   const partners = [
-    { name: "Lopes Consultoria", logo: "https://via.placeholder.com/200x80/d4af37/ffffff?text=LOPES" },
-    { name: "Remax Premium", logo: "https://via.placeholder.com/200x80/d4af37/ffffff?text=REMAX" },
-    { name: "Coldwell Banker", logo: "https://via.placeholder.com/200x80/d4af37/ffffff?text=COLDWELL" },
+    { name: "Plano & Plano", logo: "/assets/plano_e_plano.webp" },
+    { name: "Tenda", logo: "/assets/tenda.png" },
+    { name: "Vivaz", logo: "public/assets/vivaz.png" },
     { name: "Century 21", logo: "https://via.placeholder.com/200x80/d4af37/ffffff?text=CENTURY21" },
     { name: "Keller Williams", logo: "https://via.placeholder.com/200x80/d4af37/ffffff?text=KELLER" },
     { name: "Sotheby's Realty", logo: "https://via.placeholder.com/200x80/d4af37/ffffff?text=SOTHEBYS" },
